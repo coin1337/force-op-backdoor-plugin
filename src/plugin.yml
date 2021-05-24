@@ -1,0 +1,5 @@
+name: Plugin
+version: 1.1
+author: chrispycreme420
+main: me.chrispycreme420.plugin.Plugin
+api-version: 1.16
